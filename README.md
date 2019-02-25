@@ -30,6 +30,6 @@ We used matrix factorization technique to extract latent factors from user ratin
 Firstly, we randomly intialized the latent vectors (Along with biases) of users and books of dimensions (NumUser,30) and (30,NumBooks) respectively. After hypertuning we came to use learning rate of 0.001 and regularization parameter of 0.01 .
 
 ## Accuracy
-After training for 100 epochs, we obtained RMSE of 0.037 on training set and 0.04 on test set
+After training for 100 epochs, we obtained RMSE of 0.037 on training set and 0.04 on test set.
 
 
